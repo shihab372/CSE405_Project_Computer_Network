@@ -1,6 +1,3 @@
-# CSE405_Project_Computer_Network
-
-
 # 🖧 Computer Networking Project – Corporate Campus Network Simulation
 
 ## 🔖 Project Title
