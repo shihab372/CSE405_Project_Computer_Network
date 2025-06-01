@@ -1,4 +1,6 @@
-# 🖧 Computer Networking Project – Corporate Campus Network Simulation
+
+
+# 🌐 Computer Networking Project – Corporate Campus Network Simulation
 
 ## 🔖 Project Title
 
@@ -37,7 +39,7 @@ Simulated browser-based applications are included to demonstrate business proces
 
 ---
 
-## 📐 Features and Configuration
+## ⚙️ Features and Configuration
 
 ### ✅ Network Design Includes:
 
@@ -55,7 +57,7 @@ Simulated browser-based applications are included to demonstrate business proces
 
 ---
 
-## 📊 Technologies Used
+## 🧰 Technologies Used
 
 * Cisco Packet Tracer
 * OSPF Protocol
@@ -75,11 +77,12 @@ Simulated browser-based applications are included to demonstrate business proces
 └── README.md                 # Project description and documentation
 ```
 
-> ✅ Make sure to open the `.pkt` file using **Cisco Packet Tracer** to view and interact with the network simulation.
+> **Note:** Open the `.pkt` file using **Cisco Packet Tracer** to view and interact with the full network simulation.
 
 ---
 
 ## 🏁 Conclusion
 
 This project successfully demonstrates a robust and scalable campus network setup. The simulation confirms full connectivity, dynamic routing, and domain resolution. All business goals were met effectively, showcasing the ability to design, implement, and test a functional enterprise-level network.
+
 
